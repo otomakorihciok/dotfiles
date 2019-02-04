@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-hub
+tensorflow-serving-api
+numpy
+pandas
+matplotlib
+jupyter
+pytest
